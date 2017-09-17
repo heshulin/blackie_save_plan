@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/littleblack_save_plan.iml" filepath="$PROJECT_DIR$/.idea/littleblack_save_plan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blackie_save_plan/.idea/blackie_save_plan.iml" filepath="$PROJECT_DIR$/../blackie_save_plan/.idea/blackie_save_plan.iml" />
     </modules>
   </component>
 </project>
